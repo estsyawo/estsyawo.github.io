@@ -1,5 +1,13 @@
 ---
-title: " "
+title: "Research"
 ---
-<br><br>
- [Curriculum Vitae](https://github.com/estsyawo/estsyawo/blob/master/Tsyawo_CV.pdf)
+
+## Working Papers
+
+Enumerate here
+
+<br>
+
+## Work in Progress
+
+Enumerate here

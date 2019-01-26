@@ -1,0 +1,26 @@
+---
+title: "Code"
+---
+
+
+## R packages:
+
+bayesdistreg <https://estsyawo.github.io/bayesdistreg/index.html>
+
+cluscov <https://github.com/estsyawo/cluscov>
+
+<br>
+
+## Matlab & Octave
+
+<br>
+
+## C: 
+
+metricsC <https://github.com/estsyawo/metricsC>
+
+## Fortran: 
+
+metricsFortran <https://github.com/estsyawo/metricsFortran>
+
+## Stata

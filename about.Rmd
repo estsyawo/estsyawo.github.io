@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: " "
 ---
 
 # [Curriculum Vitae](https://github.com/estsyawo/estsyawo/blob/master/Tsyawo_CV.pdf)

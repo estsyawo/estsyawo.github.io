@@ -4,7 +4,7 @@ title: "Home"
 
 My name is Emmanuel Selorm Tsyawo. I am currently a PhD candidate in Economics at Temple University. My research interests are Microeconometrics, Industrial Organisation, and Forecasting.
 
-Curriculum Vitae
+[Curriculum Vitae](https://github.com/estsyawo/estsyawo/blob/master/Tsyawo_CV.pdf)
 
 Contact Information:
 Email: estsyawo@temple.edu

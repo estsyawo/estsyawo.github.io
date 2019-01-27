@@ -3,24 +3,30 @@ title: "Code"
 ---
 
 
-## R packages:
+### R packages:
 
-bayesdistreg <https://estsyawo.github.io/bayesdistreg/index.html>
+[bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
 
-cluscov <https://github.com/estsyawo/cluscov>
-
-<br>
-
-## Matlab & Octave
+[cluscov](https://github.com/estsyawo/cluscov)
 
 <br>
 
-## C: 
+### C: [metricsC](https://github.com/estsyawo/metricsC)
 
-metricsC <https://github.com/estsyawo/metricsC>
+The [metricsC](https://github.com/estsyawo/metricsC) project contains portable routines purely coded in C for estimating econometric models. The project began as routines coded for the .C call in R, which explains why all the functions are void() and function arguments are pointers. The main goal of this project is to provide low-level implementations of econometric models for higher performance and also provide insight into the numerical and computational aspect to econometric and statistical model estimation.
 
-## Fortran: 
+### Fortran: [metricsFortran](https://github.com/estsyawo/metricsFortran)
 
-metricsFortran <https://github.com/estsyawo/metricsFortran>
+The Fortran: [metricsFortran](https://github.com/estsyawo/metricsFortran) contains subroutines in Fortran for estimating econometric models. The import of this project lies in exposing the numerical and computational dimensions to econometric and statistical modelling, with the intention of increasing performance, efficiency, and offering a grasp at low-level programming for common econometric models.  
 
-## Stata
+<br>
+
+### Matlab 
+
+<br>
+
+### Octave
+
+<br>
+
+### Stata

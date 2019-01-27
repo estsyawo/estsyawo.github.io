@@ -1,13 +1,23 @@
 ---
-title: "Research"
+title: ""
 ---
+<br> 
 
-## Working Papers
-
-Enumerate here
+# **Research**
 
 <br>
 
-## Work in Progress
+### **Working Papers**
 
-Enumerate here
+1. [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286)
+
+2. [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang)
+
+<br>
+
+### **Work in progress**
+
+1. Clustered Covariate Regression (with Abdul-Nasah Soale)
+
+2. Treatment Effects in Two Part Models with Panel Data (with Brantly Callaway)
+

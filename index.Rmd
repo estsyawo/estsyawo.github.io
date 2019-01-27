@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Home"
 ---
 <br>
 
@@ -12,4 +12,6 @@ My name is Emmanuel Selorm Tsyawo. I am a PhD candidate in Economics at Temple U
 <br>
 
 Email: estsyawo@temple.edu, estsyawo@gmail.com
+
+1301 Cecil B. Moore Avenue Ritter Annex 873 Philadelphia, PA 19122
 

@@ -3,7 +3,7 @@ title: "Home"
 ---
 <br>
 
-<div style= "float:right;position: relative; top: -70px;">
+<div style= "float:right;position: relative; top: -30px;">
 ```{r pressure, echo=FALSE, fig.cap="", out.width = '30%',fig.align = "right"}
 knitr::include_graphics("Emmanuel_Selorm_Tsyawo2018.jpg")
 ``` 

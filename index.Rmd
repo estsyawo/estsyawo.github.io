@@ -3,10 +3,10 @@ title: "Home"
 ---
 <br>
 
-<div style= "float:right;position: relative; top: -30px;">
-```{r pressure, echo=FALSE, fig.cap="", out.width = '30%',fig.align = "right"}
-knitr::include_graphics("Emmanuel_Selorm_Tsyawo2018.jpg")
-``` 
+
+<IMG SRC="Emmanuel_Selorm_Tsyawo2018.jpg" style="width:225px;height:300px;" ALIGN="right" HSPACE="50"/> 
+
+<br>
 
 My name is Emmanuel Selorm Tsyawo. I am a PhD candidate in Economics at Temple University, Philadelphia. My research interests are Microeconometrics, Industrial Organisation, and Forecasting. 
 

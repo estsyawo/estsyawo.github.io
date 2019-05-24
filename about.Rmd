@@ -9,6 +9,8 @@ title: ""
 
 ### **Working Papers**
 
+* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, Preliminary Draft)
+
 * [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, Submitted)  
 
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286)
@@ -22,8 +24,6 @@ title: ""
 <br>
 
 ### **Work in progress**
-
-* Clustered Covariate Regression (with Abdul-Nasah Soale, preliminary version available on request)
 
 * Treatment Effects in Two Part Models with Panel Data (with Brantly Callaway)
 

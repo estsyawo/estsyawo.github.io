@@ -8,13 +8,15 @@ title: ""
 
 ### **R packages**
 
-* bayesdistreg [[CRAN](https://CRAN.R-project.org/package=bayesdistreg)] [[Github](https://estsyawo.github.io/bayesdistreg/index.html)] (with Weige Huang)
+* cluscov [[CRAN](https://CRAN.R-project.org/package=cluscov)] [[Github](https://github.com/estsyawo/cluscov)] (with Abdul-Nasah Soale)
 
-An R package for Bayesian Distribution Regression. This package was first used for analyses in the paper "Bayesian Distribution Regression" by Weige Huang and Emmanuel Selorm Tsyawo. The paper is the recommended citation and reference for the package [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html). The package implements routines in the paper including the three Bayesian Distribution Regression estimators namely, the non-asymptotic, semi-asymptotic, and asymptotic.
+Clustered covariate regression enables estimation and inference in both linear and non-linear models with linear predictor functions even when the design matrix is column rank deficient. Routines in this package implement algorithms in [Soale and Tsyawo (2019)](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression)
 
 <br>
 
-* cluscov [[Github](https://github.com/estsyawo/cluscov)] (with Abdul-Nasah Soale)
+* bayesdistreg [[CRAN](https://CRAN.R-project.org/package=bayesdistreg)] [[Github](https://estsyawo.github.io/bayesdistreg/index.html)] (with Weige Huang)
+
+An R package for Bayesian Distribution Regression. This package was first used for analyses in the paper "Bayesian Distribution Regression" [Huang & Tsyawo 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658). The package implements routines in the paper including the three Bayesian Distribution Regression estimators namely, the non-asymptotic, semi-asymptotic, and asymptotic.
 
 <br>
 

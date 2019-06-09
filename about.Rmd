@@ -9,9 +9,11 @@ title: ""
 
 ### **Working Papers**
 
-* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, Preliminary Draft)
+* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, submitted)
 
-* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, Submitted)  
+    Code: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code for Soale & Tsyawo 2019</a>
+
+* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, submitted)  
 
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286)
 

@@ -12,7 +12,7 @@ navbar:
       href: cv.html
     - text: "Research"
       icon: fa-user 
-      href: about.html
+      href: research.html
     - text: "Code"
       icon: fa-user 
       href: code.html
@@ -28,5 +28,5 @@ navbar:
       href: https://github.com/estsyawo       # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: spacelab                                #cosmo   paper  simplex spacelab
+    highlight: textmate                         #  pygments

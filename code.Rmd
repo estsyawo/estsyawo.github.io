@@ -9,13 +9,13 @@ title: "Code"
 
 ### **R packages**
 
-* cluscov [[CRAN](https://CRAN.R-project.org/package=cluscov)] [[Github](https://github.com/estsyawo/cluscov)] (with Abdul-Nasah Soale)
+* cluscov [[CRAN](https://CRAN.R-project.org/package=cluscov)] [[Website](https://estsyawo.github.io/cluscov/)] [[Github](https://github.com/estsyawo/cluscov)] (with Abdul-Nasah Soale)
 
 Clustered covariate regression enables estimation and inference in both linear and non-linear models with linear predictor functions even when the design matrix is column rank deficient. Routines in this package implement algorithms in [Soale and Tsyawo (2019)](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression)
 
 <br>
 
-* bayesdistreg [[CRAN](https://CRAN.R-project.org/package=bayesdistreg)] [[Github](https://estsyawo.github.io/bayesdistreg/index.html)] (with Weige Huang)
+* bayesdistreg [[CRAN](https://CRAN.R-project.org/package=bayesdistreg)] [[Website](https://estsyawo.github.io/bayesdistreg/index.html)] [[Github](https://github.com/estsyawo/bayesdistreg)] (with Weige Huang)
 
 An R package for Bayesian Distribution Regression. This package was first used for analyses in the paper "Bayesian Distribution Regression" [Huang & Tsyawo 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658). The package implements routines in the paper including the three Bayesian Distribution Regression estimators namely, the non-asymptotic, semi-asymptotic, and asymptotic.
 

@@ -12,7 +12,7 @@ My name is Emmanuel Selorm Tsyawo. I am a PhD candidate in Economics at Temple U
 
 <br>
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Curriculum Vitae</a>			
+<a href="Tsyawo_CV.pdf#" class="download" title="Download CV as PDF">Curriculum Vitae</a>			
 
 <br>
 

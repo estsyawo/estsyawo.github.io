@@ -21,6 +21,13 @@ An R package for Bayesian Distribution Regression. This package was first used f
 
 <br>
 
+* RpacSPD [[GitHub](https://github.com/estsyawo/RpacSPD)]
+[[Website](https://estsyawo.github.io/RpacSPD/)]
+
+This package contains routines for estimating and carrying out inference on both linear and nonlinear spatial panel data models developed in my papers.
+
+<br>
+
 ### **C**
 
 * metricsC [[Github](https://github.com/estsyawo/metricsC)]:

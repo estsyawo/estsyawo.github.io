@@ -20,7 +20,7 @@ title: "Research"
 
 * R&D spillover effects on firm innovation - a spatial approach (Preliminary version available on request)
 
-* [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286)
+* [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
 
 <!-- Commented out: -->
 

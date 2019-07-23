@@ -8,7 +8,7 @@ title: "Research"
 <br>
 
 ### **Working Papers**
-* An SAR spatial matrix estimator (status: submitted)
+* [An SAR spatial matrix estimator](https://www.researchgate.net/publication/334625132_An_SAR_spatial_matrix_estimator) (status: submitted)
 
     Replication: <a href="Tsyawo_2019a.zip#" class="download" title=" "> R code </a>
 

@@ -8,12 +8,15 @@ title: "Research"
 <br>
 
 ### **Working Papers**
+* An SAR spatial matrix estimator (status: submitted)
 
-* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, submitted)
+    Replication: <a href="Tsyawo_2019a.zip#" class="download" title=" "> R code </a>
 
-    Code: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code for Soale & Tsyawo 2019</a>
+* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: submitted)
 
-* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, submitted)  
+    Replication: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>
+
+* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, status: submitted)  
 
 * R&D spillover effects on firm innovation - a spatial approach (Preliminary version available on request)
 

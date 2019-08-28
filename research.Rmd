@@ -11,18 +11,15 @@ title: "Research"
 
 <br>
 
-* [An SAR spatial matrix estimator](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424809) (status: submitted)
-  + Replication: <a href="Tsyawo_2019a.zip#" class="download" title=" "> R code </a>
+* R&D spillover effects on firm innovation - a spatial approach (Preliminary version available on request)
+  + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)
 
 * [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: submitted)
   + Replication: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>
   + R Package: [cluscov](https://estsyawo.github.io/cluscov/)
 
-* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, status: submitted)
+* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang)
   + R Package: [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
-
-* R&D spillover effects on firm innovation - a spatial approach (Preliminary version available on request)
-  + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)
 
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
 
@@ -38,4 +35,4 @@ title: "Research"
 
 * Treatment Effects in Two Part Models with Panel Data (with Brantly Callaway)
 
-* Estimating SAR spatial matrix by Clustered Covariate Regression 
+* An SAR spatial matrix estimator

@@ -10,6 +10,8 @@ title: "Home"
 
 My name is Emmanuel Selorm Tsyawo. I am a PhD candidate in Economics at Temple University, Philadelphia. My research interests are Microeconometrics and Empirical Industrial Organisation. 
 
+I am on the job market this year and I shall be attending the ASSA 2020 Annual Meeting on January 3-5  in San Diego, CA.
+
 <br>
 
 <a href="Tsyawo_CV.pdf#" class="download" title="Download CV as PDF">Curriculum Vitae</a>			

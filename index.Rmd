@@ -10,6 +10,8 @@ title: "Home"
 
 My name is Emmanuel Selorm Tsyawo. I am a PhD candidate in Economics at Temple University, Philadelphia. My research interests are Microeconometrics and Empirical Industrial Organisation. 
 
+<br>
+
 I am on the job market this year and I shall be attending the ASSA 2020 Annual Meeting on January 3-5  in San Diego, CA.
 
 <br>
@@ -20,5 +22,5 @@ I am on the job market this year and I shall be attending the ASSA 2020 Annual M
 
 Email: estsyawo@temple.edu, estsyawo@gmail.com
 
-1301 Cecil B. Moore Avenue Ritter Annex 873 Philadelphia, PA 19122
+Address: 1301 Cecil B. Moore Avenue Ritter Annex 873 Philadelphia, PA 19122
 

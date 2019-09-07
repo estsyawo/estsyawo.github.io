@@ -11,7 +11,7 @@ title: "Research"
 
 <br>
 
-* R&D spillover effects on firm innovation - A spatial approach (Job Market Paper)
+* [R&D spillover effects on firm innovation - A spatial approach](https://estsyawo.github.io/Tsyawo_JMP.pdf#) (Job Market Paper)
   + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)
 
   <br>

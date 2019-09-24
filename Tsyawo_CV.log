@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 SEP 2019 21:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 SEP 2019 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,11 +326,6 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.29352pt too wide) in paragraph at lines 146--147
-[]\OT1/cmr/m/n/12 Clustered co-vari-ate re-gres-sion [[][]SSRN[][]], (with Abdu
-l-Nasah Soale, un-der re-view) - \OT1/cmr/m/it/12 Sched-
- []
-
 [2] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 221--227
 
@@ -377,7 +372,7 @@ Here is how much of TeX's memory you used:
  9013 multiletter control sequences out of 15000+600000
  8763 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,32p,988b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,32p,988b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
@@ -385,10 +380,10 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Tsyawo_CV.pdf (4 pages, 92625 bytes).
+Output written on Tsyawo_CV.pdf (4 pages, 92638 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  26 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

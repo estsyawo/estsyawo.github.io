@@ -11,13 +11,13 @@ title: "Research"
 
 <br>
 
-* [R&D spillover effects on firm innovation - A spatial approach](https://estsyawo.github.io/Tsyawo_JMP.pdf#) (Job Market Paper)
+* [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#) (Job Market Paper)
   + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)
 
   <br>
   
-  **Abstract**: Quantifying R&D spillover effects on innovation requires a spatial matrix that characterises the strength of connectivity between firms. Estimates can be biased if the spatial matrix is misspecified. This paper proposes a parsimonious approach to estimating the spatial matrix, when the spatial matrix is partly or fully unknown, alongside parameters and quantifies R&D spillovers on innovation. The approach is applicable to linear and non-linear models and allows asymmetry and time-variation in the spatial matrix. In an application of the approach to the negative binomial model, this paper establishes consistency and asymptotic normality of the MLE under conditional independence and conditional strong-mixing assumptions on the outcome variable. On firm innovation, we find positive spillover and private effects of R&D. We
-provide evidence of time-variation and asymmetry in the interaction structure between firms and find that geographic proximity and product market proximity are relevant. Moreover, the strength of connectivity between firms is not limited to often-assumed notions of closeness; it is also linked to past R&D and patenting behaviour of firms.
+  **Abstract**: Firms’ research and development (R&D) efforts are known to have spillover effects on other firms’ outcomes, e.g., innovation. Quantifying R&D spillover effects on innovation requires a spatial matrix that characterises the strength of connectivity between firms. Estimates can be biased if the spatial matrix is misspecified. This paper proposes a parsimonious approach to estimating parameters and the spatial matrix from panel data, when the spatial matrix is partly or fully unknown, in order to quantify R&D spillovers on innovation. The approach is applicable to single index models, and it allows asymmetry and time-variation in the spatial matrix. The paper establishes consistency and asymptotic normality of the MLE under conditional independence and conditional strong-mixing assumptions on the outcome variable. On firm
+innovation, we find positive spillover and private effects of R&D. We provide evidence of timevariation and asymmetry in the interaction structure between firms and find that geographic proximity and product market proximity are relevant. Moreover, the strength of connectivity between firms is not limited to often-assumed notions of closeness; it is also linked to past R&D and patenting behaviour of firms.
   
   <br>
   

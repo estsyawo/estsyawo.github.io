@@ -22,7 +22,7 @@ innovation, we find positive spillover and private effects of R&D. We provide ev
   <br>
   
 * [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: under review)
-  + Scheduled for presentation at the Mid-West Econometrics Group Conference, October 2019
+  + Presented at the Mid-West Econometrics Group Conference, October 2019
   + Replication: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>
   + Presentation: <a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>
   + R Package: [cluscov](https://estsyawo.github.io/cluscov/) 

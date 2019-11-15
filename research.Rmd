@@ -16,8 +16,7 @@ title: "Research"
 
   <br>
   
-  **Abstract**: Firms’ research and development (R&D) efforts are known to have spillover effects on other firms’ outcomes, e.g., innovation. Quantifying R&D spillover effects on innovation requires a spatial matrix that characterises the strength of connectivity between firms. Estimates can be biased if the spatial matrix is misspecified. This paper proposes a parsimonious approach to estimating parameters and the spatial matrix from panel data, when the spatial matrix is partly or fully unknown, in order to quantify R&D spillovers on innovation. The approach is applicable to single index models, and it allows asymmetry and time-variation in the spatial matrix. The paper establishes consistency and asymptotic normality of the MLE under conditional independence and conditional strong-mixing assumptions on the outcome variable. On firm
-innovation, we find positive spillover and private effects of R&D. We provide evidence of timevariation and asymmetry in the interaction structure between firms and find that geographic proximity and product market proximity are relevant. Moreover, the strength of connectivity between firms is not limited to often-assumed notions of closeness; it is also linked to past R&D and patenting behaviour of firms.
+  **Abstract**: Firms’ research and development (R&D) efforts are known to have spillover effects on other firms’ outcomes, e.g., innovation. Quantifying R&D spillover effects requires a spatial matrix that characterises the interaction structure between firms. Estimates can be biased if the spatial matrix is misspecified. This paper proposes a parsimonious approach to estimating the spatial matrix and parameters from panel data, when the spatial matrix is partly or fully unknown. The approach is robust to misspecification of the spatial matrix, and it is applicable to single index models. It allows asymmetry and time-variation in the spatial matrix. The paper establishes consistency and asymptotic normality of the MLE under conditional independence and conditional strong-mixing assumptions on the outcome variable. On firm innovation, I find positive spillover and private effects of R&D. I provide evidence of time-variation and asymmetry in the interaction structure between firms and find that geographic proximity and product market proximity are relevant. Moreover, connectivity between firms is not limited to often-assumed notions of closeness; it is also linked to past R&D and patenting behaviour of firms.
   
   <br>
   
@@ -52,6 +51,8 @@ innovation, we find positive spillover and private effects of R&D. We provide ev
 
 ### **Work in progress**
 
-* Treatment Effects in Two Part Models with Panel Data (with Brantly Callaway)
-
 * A parsimonious approach to estimating the SAR spatial matrix from panel data
+
+* Estimating the SAR spatial matrix by Clustered Covariate Regression
+
+* Policy spillover effects on student performance - Evidence from PISA (with ClaraChristina Gerstner)

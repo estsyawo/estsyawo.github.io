@@ -12,7 +12,7 @@ My name is Emmanuel Selorm Tsyawo. I am a PhD candidate in Economics at Temple U
 
 <br>
 
-I am on the job market this year and I shall be attending the ASSA 2020 Annual Meeting on January 3-5  in San Diego, CA.
+I am on the job market this year, and I shall be attending the AEA/ASSA 2020 Annual Meetings in San Diego, CA, January 3-5.
 
 <br>
 
@@ -24,6 +24,7 @@ I am on the job market this year and I shall be attending the ASSA 2020 Annual M
 
 <br>
 
+<!--Email: estsyawo[at]temple[dot]edu, estsyawo[at]gmail[dot]com-->
 Email: estsyawo@temple.edu, estsyawo@gmail.com
 
 Address: 1301 Cecil B. Moore Avenue Ritter Annex 873 Philadelphia, PA 19122

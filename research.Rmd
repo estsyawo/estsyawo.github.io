@@ -20,7 +20,7 @@ title: "Research"
   
   <br>
   
-* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: under review)
+* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: working paper)
   + Presented at the Mid-West Econometrics Group Conference, October 2019
   + Replication: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>
   + Presentation: <a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>
@@ -52,8 +52,8 @@ title: "Research"
 
 ### **Work in progress**
 
-* A parsimonious approach to estimating the SAR spatial matrix from panel data
+* Estimating the Spatial Matrix in Spatial Autoregressive Models with Autoregressive Disturbances
 
-* Estimating the SAR spatial matrix by Clustered Covariate Regression
+<!--* Estimating the SAR spatial matrix by Clustered Covariate Regression -->
 
 * Policy spillover effects on student performance - Evidence from PISA (with ClaraChristina Gerstner)

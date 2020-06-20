@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -85,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -234,6 +233,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -245,18 +245,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -371,9 +359,12 @@ $(document).ready(function () {
 <li>Presentation: <a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a></li>
 <li>R Package: <a href="https://estsyawo.github.io/cluscov/">cluscov</a></li>
 </ul>
-<p><br></p>
-<p><strong>Abstract</strong>: This paper introduces an estimator for a general class of models under rank deficiency arising from high dimensionality, multicollinearity, or both. Our approach obtains a projection matrix that projects a high-dimensional (potentially growing p &gt;&gt; n) parameter vector into a reduced consistently estimable one. We show consistency and asymptotic normality of the estimator. Recovering the high-dimensional parameter vector using the projection matrix leaves precision unaffected. We employ a sequential estimation algorithm that, at once, obtains parameter estimates and the projection matrix. Our Monte Carlo simulations demonstrate a high approximative ability of high-dimensional parameters, improved precision, and reduced bias even under multicollinearity. In our empirical application, we find that firms on average generate positive R&amp;D spillovers on firm productivity though these are dominated by private returns to R&amp;D.</p>
 <p><br></p></li>
+</ul>
+<!--  **Abstract**: This paper introduces an estimator for a general class of models under rank deficiency arising from high dimensionality, multicollinearity, or both. Our approach obtains a projection matrix that projects a high-dimensional (potentially growing p >> n) parameter vector into a reduced consistently estimable one. We show consistency and asymptotic normality of the estimator. Recovering the high-dimensional parameter vector using the projection matrix leaves precision unaffected. We employ a sequential estimation algorithm that, at once, obtains parameter estimates and the projection matrix. Our Monte Carlo simulations demonstrate a high approximative ability of high-dimensional parameters, improved precision, and reduced bias even under multicollinearity. In our empirical application, we find that firms on average generate positive R&D spillovers on firm productivity though these are dominated by private returns to R&D.
+-->
+<p><br></p>
+<ul>
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658">Bayesian Distribution Regression</a> (with Weige Huang, status: working paper)
 <ul>
 <li>R Package: <a href="https://estsyawo.github.io/bayesdistreg/index.html">bayesdistreg</a></li>
@@ -399,7 +390,8 @@ $(document).ready(function () {
 </ul>
 <!--* Estimating the SAR spatial matrix by Clustered Covariate Regression -->
 <ul>
-<li>Policy spillover effects on student performance - Evidence from PISA (with ClaraChristina Gerstner)</li>
+<li><p>Policy spillover effects on student performance - Evidence from PISA (with ClaraChristina Gerstner)</p></li>
+<li><p>The Externality of Poverty on the Incidence of Child Labour - Evidence from Ghana (with Sylvanus Gaku)</p></li>
 </ul>
 </div>
 
@@ -420,6 +412,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

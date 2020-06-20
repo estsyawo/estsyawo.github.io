@@ -28,8 +28,8 @@ title: "Research"
   
   <br>
   
-  **Abstract**: This paper introduces an estimator for a general class of models under rank deficiency arising from high dimensionality, multicollinearity, or both. Our approach obtains a projection matrix that projects a high-dimensional (potentially growing p >> n) parameter vector into a reduced consistently estimable one. We show consistency and asymptotic normality of the estimator. Recovering the high-dimensional parameter vector using the projection matrix leaves precision unaffected. We employ a sequential estimation algorithm that, at once, obtains parameter estimates and the projection matrix. Our Monte Carlo simulations demonstrate a high approximative ability of high-dimensional parameters, improved precision, and reduced bias even under multicollinearity. In our empirical application, we find that firms on average generate positive R&D spillovers on firm productivity though these are dominated by private returns to R&D.
-
+<!--  **Abstract**: This paper introduces an estimator for a general class of models under rank deficiency arising from high dimensionality, multicollinearity, or both. Our approach obtains a projection matrix that projects a high-dimensional (potentially growing p >> n) parameter vector into a reduced consistently estimable one. We show consistency and asymptotic normality of the estimator. Recovering the high-dimensional parameter vector using the projection matrix leaves precision unaffected. We employ a sequential estimation algorithm that, at once, obtains parameter estimates and the projection matrix. Our Monte Carlo simulations demonstrate a high approximative ability of high-dimensional parameters, improved precision, and reduced bias even under multicollinearity. In our empirical application, we find that firms on average generate positive R&D spillovers on firm productivity though these are dominated by private returns to R&D.
+-->
   <br>
   
 * [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, status: working paper)
@@ -57,3 +57,5 @@ title: "Research"
 <!--* Estimating the SAR spatial matrix by Clustered Covariate Regression -->
 
 * Policy spillover effects on student performance - Evidence from PISA (with ClaraChristina Gerstner)
+
+* The Externality of Poverty on the Incidence of Child Labour - Evidence from Ghana (with Sylvanus Gaku)

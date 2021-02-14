@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.10)  19 JUN 2020 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.10)  14 FEB 2021 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,74 +364,50 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 68.
 
-Overfull \hbox (73.07146pt too wide) in paragraph at lines 79--97
+Overfull \hbox (73.07146pt too wide) in paragraph at lines 79--101
 []$[]$ $[]$ 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 107.
+(Font)              using `OT1/cmr/bx/n' instead on input line 106.
 
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 232--238
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--245
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--260
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--274
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
  (./Tsyawo_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `Tsyawo_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
  ) 
 Here is how much of TeX's memory you used:
- 5630 strings out of 480608
- 87235 string characters out of 5903630
- 359214 words of memory out of 5000000
+ 5631 strings out of 480608
+ 87242 string characters out of 5903630
+ 358214 words of memory out of 5000000
  21430 multiletter control sequences out of 15000+600000
  537461 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,34p,973b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,34p,688b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Tsyawo_CV.pdf (3 pages, 82785 bytes).
+Output written on Tsyawo_CV.pdf (3 pages, 79358 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

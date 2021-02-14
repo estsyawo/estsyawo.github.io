@@ -9,15 +9,17 @@ title: "Research"
 
 ### **Working Papers**
 
+* [A Distance Covariance-based Estimator]()
+
 <br>
 
-* [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#) (Job Market Paper)
+* [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)
   + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)
 
   <br>
-  
+<!--  
   **Abstract**: Firms’ research and development (R&D) efforts are known to have spillover effects on other firms’ outcomes, e.g., innovation. Quantifying R&D spillover effects requires a spatial matrix that characterises the interaction structure between firms. Estimates can be biased if the spatial matrix is misspecified. This paper proposes a parsimonious approach to estimating the spatial matrix and parameters from panel data, when the spatial matrix is partly or fully unknown. The approach is robust to misspecification of the spatial matrix, and it is applicable to single index models. It allows asymmetry and time-variation in the spatial matrix. The paper establishes consistency and asymptotic normality of the MLE under conditional independence and conditional strong-mixing assumptions on the outcome variable. On firm innovation, I find positive spillover and private effects of R&D. I provide evidence of time-variation and asymmetry in the interaction structure between firms and find that geographic proximity and product market proximity are relevant. Moreover, connectivity between firms is not limited to often-assumed notions of closeness; it is also linked to past R&D and patenting behaviour of firms.
-  
+  -->
   <br>
   
 * [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: working paper)
@@ -51,11 +53,11 @@ title: "Research"
 <br>
 
 ### **Work in progress**
-
+<!--
 * Estimating the Spatial Matrix in Spatial Autoregressive Models with Autoregressive Disturbances
-
+-->
 <!--* Estimating the SAR spatial matrix by Clustered Covariate Regression -->
 
-* Policy spillover effects on student performance - Evidence from PISA (with ClaraChristina Gerstner)
+* Policy spillover effects on student performance - Evidence from PISA (with Clara-Christina Gerstner)
 
-* The Externality of Poverty on the Incidence of Child Labour - Evidence from Ghana (with Sylvanus Gaku)
+* Poverty and the Incidence of Child Labour - A Spatial Perspective (with Sylvanus Gaku)

@@ -9,7 +9,7 @@ title: "Research"
 
 ### **Working Papers**
 
-* [A Distance Covariance-based Estimator]()
+* [A Distance Covariance-based Estimator](https://arxiv.org/pdf/2102.07008.pdf)
 
 <br>
 

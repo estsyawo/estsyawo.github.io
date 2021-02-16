@@ -9,7 +9,7 @@ title: "Research"
 
 ### **Working Papers**
 
-* [A Distance Covariance-based Estimator](https://arxiv.org/pdf/2102.07008.pdf)
+* [A Distance Covariance-based Estimator](https://arxiv.org/pdf/2102.07008.pdf) (with Abdul-Nasah Soale)
 
 <br>
 
@@ -22,7 +22,7 @@ title: "Research"
   -->
   <br>
   
-* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale, status: working paper)
+* [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale)
   + Presented at the Mid-West Econometrics Group Conference, October 2019
   + Replication: <a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>
   + Presentation: <a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>
@@ -34,7 +34,7 @@ title: "Research"
 -->
   <br>
   
-* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang, status: working paper)
+* [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang)
   + R Package: [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
 
 <!--

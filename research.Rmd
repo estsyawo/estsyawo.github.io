@@ -8,19 +8,12 @@ title: "Research"
 <br>
 
 ### **Working Papers**
+* [IV Regression with Possibly Uncorrelated Instruments](https://arxiv.org/pdf/2103.09621.pdf)
 
 * [A Distance Covariance-based Estimator](https://arxiv.org/pdf/2102.07008.pdf) (with Abdul-Nasah Soale)
 
-<br>
-
 * [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)
   + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)
-
-  <br>
-<!--  
-  **Abstract**: Firms’ research and development (R&D) efforts are known to have spillover effects on other firms’ outcomes, e.g., innovation. Quantifying R&D spillover effects requires a spatial matrix that characterises the interaction structure between firms. Estimates can be biased if the spatial matrix is misspecified. This paper proposes a parsimonious approach to estimating the spatial matrix and parameters from panel data, when the spatial matrix is partly or fully unknown. The approach is robust to misspecification of the spatial matrix, and it is applicable to single index models. It allows asymmetry and time-variation in the spatial matrix. The paper establishes consistency and asymptotic normality of the MLE under conditional independence and conditional strong-mixing assumptions on the outcome variable. On firm innovation, I find positive spillover and private effects of R&D. I provide evidence of time-variation and asymmetry in the interaction structure between firms and find that geographic proximity and product market proximity are relevant. Moreover, connectivity between firms is not limited to often-assumed notions of closeness; it is also linked to past R&D and patenting behaviour of firms.
-  -->
-  <br>
   
 * [Clustered Covariate Regression](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression) (with Abdul-Nasah Soale)
   + Presented at the Mid-West Econometrics Group Conference, October 2019
@@ -28,20 +21,10 @@ title: "Research"
   + Presentation: <a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>
   + R Package: [cluscov](https://estsyawo.github.io/cluscov/) 
   
-  <br>
-  
-<!--  **Abstract**: This paper introduces an estimator for a general class of models under rank deficiency arising from high dimensionality, multicollinearity, or both. Our approach obtains a projection matrix that projects a high-dimensional (potentially growing p >> n) parameter vector into a reduced consistently estimable one. We show consistency and asymptotic normality of the estimator. Recovering the high-dimensional parameter vector using the projection matrix leaves precision unaffected. We employ a sequential estimation algorithm that, at once, obtains parameter estimates and the projection matrix. Our Monte Carlo simulations demonstrate a high approximative ability of high-dimensional parameters, improved precision, and reduced bias even under multicollinearity. In our empirical application, we find that firms on average generate positive R&D spillovers on firm productivity though these are dominated by private returns to R&D.
--->
-  <br>
-  
 * [Bayesian Distribution Regression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658) (with Weige Huang)
   + R Package: [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
 
 <!--
-  <br>
-  
-  **Abstract**: This paper introduces a Bayesian version of distribution regression that enables inference on estimated distributions, quantiles, distributional effects, among other functionals of interest. Our estimators come in three categories: the non-asymptotic, semi-asymptotic, and asymptotic. To conduct simultaneous inference on a function of any estimator, we introduce asymmetric and symmetric Bayesian confidence bands. Inference on point estimates is conducted via posterior intervals. The Bayesian asymptotic theory we develop extends the foregoing to gains in computational time and tractability of posterior distributions. Monte Carlo simulations conducted illustrate good performance of our estimators. We apply our estimators to evaluate the impact of institutional ownership on firm innovation. 
-  
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
 
 <!-- Commented out: -->
@@ -53,10 +36,6 @@ title: "Research"
 <br>
 
 ### **Work in progress**
-<!--
-* Estimating the Spatial Matrix in Spatial Autoregressive Models with Autoregressive Disturbances
--->
-<!--* Estimating the SAR spatial matrix by Clustered Covariate Regression -->
 
 * Policy spillover effects on student performance - Evidence from PISA (with Clara-Christina Gerstner)
 

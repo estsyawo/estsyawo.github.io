@@ -8,6 +8,11 @@ title: "Research"
 <br>
 
 ### **Working Papers**
+
+* <a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Neighbourhood Effects and the Incidence of Child Labour (with Sylvanus Gaku)</a>
+  + <a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>
+  + Replication: <a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" "> R Code & Data </a>
+
 * [IV Regression with Possibly Uncorrelated Instruments](https://arxiv.org/pdf/2103.09621.pdf)
 
 * [A Distance Covariance-based Estimator](https://arxiv.org/pdf/2102.07008.pdf) (with Abdul-Nasah Soale)
@@ -38,5 +43,3 @@ title: "Research"
 ### **Work in progress**
 
 * Policy spillover effects on student performance - Evidence from PISA (with Clara-Christina Gerstner)
-
-* Poverty and the Incidence of Child Labour - A Spatial Perspective (with Sylvanus Gaku)

@@ -9,7 +9,7 @@ title: "Research"
 
 ### **Publications**
 
-* Neighbourhood Effects and the Incidence of Child Labour (with Sylvanus Gaku, accepted for publication at *Letters in Spatial and Resource Sciences*) [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>]
+* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3) (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021) [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>]
 
 <br>
 

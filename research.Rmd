@@ -15,7 +15,7 @@ title: "Research"
 
 ### **Working Papers**
 
-* IV Regression with Possibly Uncorrelated Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf)]
+* Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], To be presented at the Latin America Meeting of the Econometric Society, October 2021
 
 * A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
 

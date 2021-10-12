@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -85,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -234,6 +233,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -245,18 +245,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -355,6 +343,10 @@ $(document).ready(function () {
 <p><br><br></p>
 <div id="r-packages" class="section level3">
 <h3><strong>R packages</strong></h3>
+<ul>
+<li>estrpac [<a href="https://github.com/estsyawo/estrpac">GitHub</a>]</li>
+</ul>
+<p>This package temporarily hosts routines that I use in my research.</p>
 <p><br></p>
 <ul>
 <li>cluscov [<a href="https://CRAN.R-project.org/package=cluscov">CRAN</a>] [<a href="https://estsyawo.github.io/cluscov/">Website</a>] [<a href="https://github.com/estsyawo/cluscov">Github</a>] (with Abdul-Nasah Soale)</li>
@@ -393,7 +385,7 @@ $(document).ready(function () {
 <li>metricsFortran [<a href="https://github.com/estsyawo/metricsFortran">Github</a>]</li>
 </ul>
 <p><a href="https://github.com/estsyawo/metricsFortran">metricsFortran</a> contains subroutines in Fortran for estimating econometric models. The import of this project lies in exposing the numerical and computational dimensions to econometric and statistical modelling, with the intention of increasing performance, efficiency, and offering a grasp at low-level programming for common econometric models.</p>
-<p>Due to the availability of high-level functionalities in Fortran viz. matrix product, transpose, etc., we do not provide code for executing such tasks.</p>
+<p>Due to the availability of high-level functionalities in Fortran viz. matrix product, transpose, etc., we do not provide code for executing such tasks.</p>
 <!--
 <br>
 
@@ -426,6 +418,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

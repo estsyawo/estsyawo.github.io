@@ -9,6 +9,10 @@ title: "Code"
 
 ### **R packages**
 
+* estrpac [[GitHub](https://github.com/estsyawo/estrpac)] 
+
+This package temporarily hosts routines that I use in my research.
+
 <br>
 
 * cluscov [[CRAN](https://CRAN.R-project.org/package=cluscov)] [[Website](https://estsyawo.github.io/cluscov/)] [[Github](https://github.com/estsyawo/cluscov)] (with Abdul-Nasah Soale)

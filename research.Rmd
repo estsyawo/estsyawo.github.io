@@ -9,17 +9,19 @@ title: "Research"
 
 ### **Publications**
 
+* Policy Spillover Effects on Student Achievement – Evidence from PISA (with Clara-Christina Gerstner) - Forthcoming at *Letters in Spatial and Resource Sciences*
+
 * [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3) (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021) [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>]
 
 <br>
 
 ### **Working Papers**
 
-* Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], Presented at the Latin America Meeting of the Econometric Society, October 2021
+* Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)]
 
-* A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)], To be presented at the European Winter Meeting of the Econometric Society, December 2021, Presented at the Africa Meeting of the Econometric Society, June 2021
+* A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
 
-* Clustered Covariate Regression (with Abdul-Nasah Soale), Presented at the Mid-West Econometrics Group Conference, October 2019, [[ResearchGate](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression)], [<a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>], [<a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>] 
+* Clustered Covariate Regression (with Abdul-Nasah Soale), [[ResearchGate](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression)], [<a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R & Matlab code </a>], [<a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>] 
   + R Package: [cluscov](https://estsyawo.github.io/cluscov/) 
 
 * [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)
@@ -28,14 +30,10 @@ title: "Research"
 * Bayesian Distribution Regression (with Weige Huang), [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658)]
   + R Package: [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
 
-<br>
-
-### **Work in progress**
-
-* Policy spillover effects on student performance - Evidence from PISA (with Clara-Christina Gerstner)
 
 <!--
 
+<br>
 
 
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)

@@ -13,24 +13,38 @@
 
 <title>Research</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -78,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -98,40 +83,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 52px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h2 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h3 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h4 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h5 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h6 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +117,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +129,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,10 +140,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,7 +168,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -329,7 +299,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -344,37 +314,55 @@ $(document).ready(function () {
 <div id="publications" class="section level3">
 <h3><strong>Publications</strong></h3>
 <ul>
-<li><a href="https://link.springer.com/article/10.1007/s12076-021-00276-3">Neighbourhood Effects and the Incidence of Child Labour</a> (with Sylvanus Gaku, <em>Letters in Spatial and Resource Sciences</em>, 2021) [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>]</li>
+<li><p>Policy Spillover Effects on Student Achievement – Evidence from
+PISA (with Clara-Christina Gerstner) - Forthcoming at <em>Letters in
+Spatial and Resource Sciences</em></p></li>
+<li><p><a
+href="https://link.springer.com/article/10.1007/s12076-021-00276-3">Neighbourhood
+Effects and the Incidence of Child Labour</a> (with Sylvanus Gaku,
+<em>Letters in Spatial and Resource Sciences</em>, 2021)
+[<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>],
+[<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online
+Appendix</a>],
+[<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication
+Files</a>]</p></li>
 </ul>
 <p><br></p>
 </div>
 <div id="working-papers" class="section level3">
 <h3><strong>Working Papers</strong></h3>
 <ul>
-<li><p>Feasible IV Regression without Excluded Instruments, [<a href="https://arxiv.org/pdf/2103.09621.pdf?">ArXiv</a>], Presented at the Latin America Meeting of the Econometric Society, October 2021</p></li>
-<li><p>A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [<a href="https://arxiv.org/pdf/2102.07008.pdf">ArXiv</a>], To be presented at the European Winter Meeting of the Econometric Society, December 2021, Presented at the Africa Meeting of the Econometric Society, June 2021</p></li>
-<li><p>Clustered Covariate Regression (with Abdul-Nasah Soale), Presented at the Mid-West Econometrics Group Conference, October 2019, [<a href="https://www.researchgate.net/publication/333207469_Clustered_covariate_regression">ResearchGate</a>], [<a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R &amp; Matlab code </a>], [<a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" "> Slides </a>]</p>
+<li><p>Feasible IV Regression without Excluded Instruments, [<a
+href="https://arxiv.org/pdf/2103.09621.pdf?">ArXiv</a>]</p></li>
+<li><p>A Distance Covariance-based Estimator (with Abdul-Nasah Soale),
+[<a href="https://arxiv.org/pdf/2102.07008.pdf">ArXiv</a>]</p></li>
+<li><p>Clustered Covariate Regression (with Abdul-Nasah Soale), [<a
+href="https://www.researchgate.net/publication/333207469_Clustered_covariate_regression">ResearchGate</a>],
+[<a href="Soale&Tsyawo_2019_Code.zip#" class="download" title=" "> R
+&amp; Matlab code </a>],
+[<a href="Slides_Soale_&_Tsyawo_2019.pdf#" class="download" title=" ">
+Slides </a>]</p>
 <ul>
-<li>R Package: <a href="https://estsyawo.github.io/cluscov/">cluscov</a></li>
+<li>R Package: <a
+href="https://estsyawo.github.io/cluscov/">cluscov</a></li>
 </ul></li>
-<li><p><a href="https://estsyawo.github.io/Tsyawo_JMP.pdf#">R&amp;D spillover effects on firm innovation - Estimating the spatial matrix from panel data</a></p>
+<li><p><a href="https://estsyawo.github.io/Tsyawo_JMP.pdf#">R&amp;D
+spillover effects on firm innovation - Estimating the spatial matrix
+from panel data</a></p>
 <ul>
-<li>R Package: <a href="https://estsyawo.github.io/RpacSPD/">RpacSPD</a></li>
+<li>R Package: <a
+href="https://estsyawo.github.io/RpacSPD/">RpacSPD</a></li>
 </ul></li>
-<li><p>Bayesian Distribution Regression (with Weige Huang), [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658">SSRN</a>]</p>
+<li><p>Bayesian Distribution Regression (with Weige Huang), [<a
+href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658">SSRN</a>]</p>
 <ul>
-<li>R Package: <a href="https://estsyawo.github.io/bayesdistreg/index.html">bayesdistreg</a></li>
+<li>R Package: <a
+href="https://estsyawo.github.io/bayesdistreg/index.html">bayesdistreg</a></li>
 </ul></li>
-</ul>
-<p><br></p>
-</div>
-<div id="work-in-progress" class="section level3">
-<h3><strong>Work in progress</strong></h3>
-<ul>
-<li>Policy spillover effects on student performance - Evidence from PISA (with Clara-Christina Gerstner)</li>
 </ul>
 <!--
 
+<br>
 
 
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
@@ -394,7 +382,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -412,7 +400,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

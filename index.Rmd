@@ -8,7 +8,7 @@ title: "Home"
 
 <br>
 
-I am an Assistant Professor of Economics at Mohammed VI University, Morocco. My primary research interests are Microeconometrics and Empirical Industrial Organisation. 
+I am an Assistant Professor of Economics at Mohammed VI University, Morocco. My primary research interests are Microeconometrics and Empirical Industrial Organisation.
 
 <br>
 
@@ -26,6 +26,8 @@ I am an Assistant Professor of Economics at Mohammed VI University, Morocco. My 
 
 <!--Email: estsyawo[at]temple[dot]edu, estsyawo[at]gmail[dot]com-->
 Email: emmanuel.tsyawo [at] um6p [dot] ma
+
+$\qquad$ etsyawo [at] gmail [dot] com
 
 Address: Université Mohammed VI Polytechnique, 
 

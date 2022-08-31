@@ -17,6 +17,8 @@ title: "Research"
 
 ### **Working Papers**
 
+* A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
+
 * Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)]
 
 * A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]

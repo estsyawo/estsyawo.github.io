@@ -9,7 +9,7 @@ title: "Research"
 
 ### **Publications**
 
-* Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)] (Accepted at *The Econometrics Journal*)
+* Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)] (Accepted at *The Econometrics Journal*) [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Files</a>]
 
 * [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y) (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022) [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Files</a>]
 

@@ -9,11 +9,11 @@ title: "Research"
 
 ### **Publications**
 
-* Feasible IV Regression without Excluded Instruments, [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)] (Accepted at *The Econometrics Journal*) [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Files</a>]
+* [Feasible IV Regression without Excluded Instruments](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext), [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Files</a>], (*The Econometrics Journal*, 2022)
 
-* [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y) (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022) [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Files</a>]
+* [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Files</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
 
-* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3) (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021) [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>]
+* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
 
 <br>
 

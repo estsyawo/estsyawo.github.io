@@ -19,6 +19,8 @@ title: "Research"
 
 ### **Working Papers**
 
+* Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
+
 * Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], 
   + R Package: [cluscov](https://estsyawo.github.io/cluscov/)
   

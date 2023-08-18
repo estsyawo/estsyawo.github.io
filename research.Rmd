@@ -9,11 +9,11 @@ title: "Research"
 
 ### **Publications**
 
-* [Feasible IV Regression without Excluded Instruments](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext), [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Files</a>], (*The Econometrics Journal*, 2023)
+* [Feasible IV Regression without Excluded Instruments](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext), [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Package</a>], (*The Econometrics Journal*, 2023)
 
-* [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Files</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
+* [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Package</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
 
-* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
+* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Package</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
 
 <br>
 
@@ -21,8 +21,7 @@ title: "Research"
 
 * Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
 
-* Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], 
-  + R Package: [cluscov](https://estsyawo.github.io/cluscov/)
+* Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
   
 * A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
 

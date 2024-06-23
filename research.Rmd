@@ -19,12 +19,12 @@ title: "Research"
 
 ### **Working Papers**
 
+* A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
+
 * Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
 
 * Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
   
-* A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
-
 * A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
 
 * [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)

@@ -46,3 +46,27 @@ title: "Research"
 <!--
 * <a href="Huang&Tsyawo2018_4.pdf#" class="download" title=" ">Bayesian Distribution Regression</a> [[Submitted]](with Weige Huang)
 -->
+
+
+<br>
+
+### **Work in Progress**
+
+* ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
+
+* Difference-in-differences with as few as two cross-sectional units
+– A new perspective to the democracy-growth debate (with Gilles Koumou)
+
+* Quantile Treatment Effects on the Treated with possibly non-continuous Outcomes (with Nelly K. Djuazon)
+
+* Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
+
+* Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
+
+
+
+
+
+
+
+

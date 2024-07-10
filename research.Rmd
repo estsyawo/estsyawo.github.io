@@ -61,8 +61,9 @@ title: "Research"
 
 * Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
 
+<!--
 * Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
-
+-->
 
 
 

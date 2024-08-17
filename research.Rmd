@@ -19,6 +19,8 @@ title: "Research"
 
 ### **Working Papers**
 
+* Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes (with Nelly K. Djuazon), [[ArXiv](https://arxiv.org/pdf/2408.07842)]
+
 * A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
 
 * Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
@@ -56,8 +58,6 @@ title: "Research"
 
 * Difference-in-differences with as few as two cross-sectional units
 – A new perspective to the democracy-growth debate (with Gilles Koumou)
-
-* Quantile Treatment Effects on the Treated with possibly non-continuous Outcomes (with Nelly K. Djuazon)
 
 * Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
 

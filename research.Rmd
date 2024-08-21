@@ -29,14 +29,13 @@ title: "Research"
   
 * A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
 
+<!--
+
 * [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)
   + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)  
 
 * Bayesian Distribution Regression (with Weige Huang), [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658)]
   + R Package: [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
-
-
-<!--
 
 <br>
 
@@ -60,6 +59,8 @@ title: "Research"
 – A new perspective to the democracy-growth debate (with Gilles Koumou)
 
 * Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
+
+* Space-Calibrated Estimation and Inference
 
 <!--
 * Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.10)  17 AUG 2024 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.10)  21 AUG 2024 18:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,19 +397,19 @@ reated with Pos-si-bly Non-Continuous
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.84425pt too wide) in paragraph at lines 173--174
+Overfull \hbox (3.84425pt too wide) in paragraph at lines 175--176
 []\OT1/cmr/m/n/12 August, 2024: Eu-ro-pean Sum-mer Meet-ing of the Econo-met-ri
 c So-ci-ety, Rot-ter-dam, Nether-
  []
 
 [2]
-Overfull \hbox (18.81496pt too wide) in paragraph at lines 191--192
+Overfull \hbox (18.81496pt too wide) in paragraph at lines 193--194
 []\OT1/cmr/m/n/12 December 2021: Eu-ro-pean Win-ter Meet-ing of the Econo-met-r
 ic So-ci-ety (EWMES), Barcelona,
  []
 
 
-Overfull \hbox (1.11783pt too wide) in paragraph at lines 223--224
+Overfull \hbox (1.11783pt too wide) in paragraph at lines 225--226
 \OT1/cmr/m/n/12 Huang), \OT1/cmtt/m/n/12 cluscov \OT1/cmr/m/n/12 [[][]\OT1/cmtt
 /m/n/12 CRAN[][]\OT1/cmr/m/n/12 ] [[][]\OT1/cmtt/m/n/12 Website[][]\OT1/cmr/m/n
 /12 ] [[][]\OT1/cmtt/m/n/12 GitHub[][]\OT1/cmr/m/n/12 ](with Abdul-Nasah Soale)
@@ -425,8 +425,8 @@ Package rerunfilecheck Info: File `Tsyawo_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8619 strings out of 478278
- 135776 string characters out of 5846547
+ 8618 strings out of 478278
+ 135769 string characters out of 5846547
  440300 words of memory out of 5000000
  26717 multiletter control sequences out of 15000+600000
  474382 words of font info for 45 fonts, out of 8000000 for 9000
@@ -440,10 +440,10 @@ usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Tsyawo_CV.pdf (4 pages, 109738 bytes).
+Output written on Tsyawo_CV.pdf (4 pages, 109963 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

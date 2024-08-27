@@ -8,7 +8,7 @@ title: "Home"
 
 <br>
 
-I am an Assistant Professor of Economics at Mohammed VI University, Morocco. My primary research interest is Econometrics (Theoretical and Applied).
+I am an Assistant Professor of Economics at Mohammed VI University in Morocco. My primary research interests lie in both theoretical and applied Econometrics, as well as Machine Learning. I am passionate about exploring the intersection of these fields to develop innovative solutions to complex economic problems.
 
 <br>
 

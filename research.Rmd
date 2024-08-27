@@ -1,7 +1,8 @@
 ---
 title: "Research"
 ---
-<br> 
+
+<br>
 
 <!--# ****-->
 
@@ -9,26 +10,29 @@ title: "Research"
 
 ### **Publications**
 
-* [Feasible IV Regression without Excluded Instruments](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext), [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Package</a>], (*The Econometrics Journal*, 2023)
+-   [Feasible IV Regression without Excluded Instruments](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext), [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Package</a>], (*The Econometrics Journal*, 2023)
 
-* [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Package</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
+-   [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Package</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
 
-* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Package</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
+-   [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Package</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
 
 <br>
 
 ### **Working Papers**
 
-* Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes (with Nelly K. Djuazon), [[ArXiv](https://arxiv.org/pdf/2408.07842)]
+-   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou), [[ArXiv](https://arxiv.org/pdf/2408.13047)]
 
-* A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
+-   Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes (with Nelly K. Djuazon), [[ArXiv](https://arxiv.org/pdf/2408.07842)]
 
-* Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
+-   A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
 
-* Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
-  
-* A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
+-   Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
 
+-   Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
+
+-   A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
+
+```{=html}
 <!--
 
 * [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)
@@ -43,32 +47,24 @@ title: "Research"
 * [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
 
 <!-- Commented out: -->
-
+```
+```{=html}
 <!--
 * <a href="Huang&Tsyawo2018_4.pdf#" class="download" title=" ">Bayesian Distribution Regression</a> [[Submitted]](with Weige Huang)
 -->
-
-
+```
 <br>
 
 ### **Work in Progress**
 
-* ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
+-   ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
 
-* Difference-in-differences with as few as two cross-sectional units
-– A new perspective to the democracy-growth debate (with Gilles Koumou)
+-   Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
 
-* Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
+-   Space-Calibrated Estimation and Inference
 
-* Space-Calibrated Estimation and Inference
-
+```{=html}
 <!--
 * Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
 -->
-
-
-
-
-
-
-
+```

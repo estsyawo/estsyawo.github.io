@@ -8,7 +8,7 @@ title: "Home"
 
 <br>
 
-I am an Assistant Professor of Economics at Mohammed VI University in Morocco. My primary research interests lie in both theoretical and applied Econometrics, as well as Machine Learning. I am passionate about exploring the intersection of these fields to develop innovative solutions to complex economic problems.
+I am an Assistant Professor of Economics at Mohammed VI University in Morocco. My primary research interests lie in both theoretical and applied Econometrics, as well as Machine Learning. I am passionate about exploring the intersection of these fields to develop innovative solutions to interesting economic problems.
 
 <br>
 
@@ -49,11 +49,12 @@ Society (AFES), Abidjan, Côte d'Ivoire (June 2024)
 * The 29th International Panel Data Conference (IPDC), Orléans, France (July 2024)
 
 * Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany (August 2024)
--->
-
 
 * European Summer Meeting of the Econometric Society, Rotterdam, Netherlands (August, 2024)
 
+-->
 
+
+* The 18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics), CFE-CMStatistics 2024, London (14-16 December 2024)
 
 

@@ -20,17 +20,17 @@ title: "Research"
 
 ### **Working Papers**
 
+-   A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit - Econometric Theory), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
+
+-   Clustered Covariate Regression (with Abdul-Nasah Soale, Under Review), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
+
+-   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Under Review), [[ArXiv](https://arxiv.org/pdf/2408.13047)]
+
 -   A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
-
--   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou), [[ArXiv](https://arxiv.org/pdf/2408.13047)]
-
--   Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes (with Nelly K. Djuazon), [[ArXiv](https://arxiv.org/pdf/2408.07842)]
-
--   A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
 
 -   Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
 
--   Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
+-   Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes (with Nelly K. Djuazon), [[ArXiv](https://arxiv.org/pdf/2408.07842)]
 
 -   ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
 
@@ -62,6 +62,8 @@ title: "Research"
 -   Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
 
 -   Space-Calibrated Estimation and Inference
+
+-   Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
 
 ```{=html}
 <!--

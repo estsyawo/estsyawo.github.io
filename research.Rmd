@@ -26,7 +26,11 @@ title: "Research"
 
 -   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Under Review), [[ArXiv](https://arxiv.org/pdf/2408.13047)]
 
--   A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
+-   A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)], [<a href="Tsyawo_Soale_2024.pdf#" class="download" title="Latest Version">Latest_Version</a>]
+
+<!--
+<a href="Tsyawo_JMP.pdf#" class="download" title="Download JMP as PDF">Job Market Paper</a>
+-->
 
 -   Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
 

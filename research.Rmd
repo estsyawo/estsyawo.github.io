@@ -38,6 +38,8 @@ title: "Research"
 
 -   ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
 
+-   Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
+
 ```{=html}
 <!--
 
@@ -62,8 +64,6 @@ title: "Research"
 <br>
 
 ### **Work in Progress**
-
--   Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
 
 -   Space-Calibrated Estimation and Inference
 

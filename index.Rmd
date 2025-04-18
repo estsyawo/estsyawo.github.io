@@ -35,18 +35,15 @@ Technopolis, Rocade Rabat-Salé, Morocco
 
 <br>
 
-<!--
+
 
 **Scheduled presentations**: 
 
-* 58th Annual Meeting of the Canadian Economics Association, Toronto, Canada, (May/June 2024)
+* [The 19th World Conference of the Spatial Econometrics Association (SEA 2025)](https://sites.google.com/site/jefconference/), Rabat, Morocco, (May 5-6 2025)
 
-* Africa Meeting of the Econometric
-Society (AFES), Abidjan, Côte d'Ivoire (June 2024)
+* [2025 World Congress of the Econometric Society (ESWC 2025)](https://www.eswc2025.org/), Seoul, Korea, (August 18-22, 2025)
 
-* North American Summer Meeting of the Econometric Society (NASMES), Nashville, Tennessee, (June 2024)
-
-
+<!--
 * The 29th International Panel Data Conference (IPDC), Orléans, France (July 2024)
 
 * Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany (August 2024)

@@ -22,11 +22,11 @@ title: "Research"
 
 -   A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit - Econometric Theory), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
 
--   Clustered Covariate Regression (with Abdul-Nasah Soale, Under Review), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
+-   A Distance Covariance-based Estimator (with Abdul-Nasah Soale, Submitted), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)], [<a href="dCov_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
 
--   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Under Review), [[ArXiv](https://arxiv.org/pdf/2408.13047)]
+-   Clustered Covariate Regression (with Abdul-Nasah Soale, Submitted), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
 
--   A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)], [<a href="Tsyawo_Soale_2024.pdf#" class="download" title="Latest Version">Latest_Version</a>]
+-   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Submitted), [[ArXiv](https://arxiv.org/pdf/2408.13047)]
 
 <!--
 <a href="Tsyawo_JMP.pdf#" class="download" title="Download JMP as PDF">Job Market Paper</a>
@@ -67,10 +67,8 @@ title: "Research"
 
 -   Space-Calibrated Estimation and Inference
 
--   Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
-
 ```{=html}
 <!--
-* Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
+-   Credit constraints and agricultural performance: Evidence from Nigeria (with Mahmoudou Alioum and Al-Mouksit Akim)
 -->
 ```

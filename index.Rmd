@@ -43,11 +43,13 @@ Tuscaloosa, AL 35487-0224
 
 -->
 
+
+<!--
+
+
 **Scheduled presentations**: 
 
 * [Southern Economic Association 95th Annual Meeting](https://southerneconomic.org/conference/call-for-papers/), Tampa, Florida, (November 22-24)
-
-<!--
 
 * [2025 World Congress of the Econometric Society (ESWC 2025)](https://www.eswc2025.org/), Seoul, Korea, (August 18-22, 2025)
 

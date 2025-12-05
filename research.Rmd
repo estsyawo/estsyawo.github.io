@@ -4,7 +4,7 @@ title: "Research"
 
 <br>
 
-<!--# ****-->
+<!--# ****
 
 <br>
 
@@ -15,31 +15,91 @@ title: "Research"
 -   [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Package</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
 
 -   [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Package</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
+-->
+
+### **Publications**
+<br>
+<ol reversed>
+  <li>
+    <a href="https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext">Feasible IV Regression without Excluded Instruments</a>,
+    <a href="https://arxiv.org/pdf/2103.09621.pdf?">[ArXiv]</a>,
+    <a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">[Online Appendix]</a>,
+    <a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">[Replication Package]</a>, (<em>The Econometrics Journal</em>, 2023)
+  </li><br>
+
+  <li>
+    <a href="https://link.springer.com/article/10.1007/s12076-022-00310-y">Policy Spillover Effects on Student Achievement – Evidence from PISA</a>,
+    <a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">[Online Appendix]</a>,
+    <a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">[Replication Package]</a>,
+    (with Clara-Christina Gerstner, <em>Letters in Spatial and Resource Sciences</em>, 2022)
+  </li><br>
+
+  <li>
+    <a href="https://link.springer.com/article/10.1007/s12076-021-00276-3">Neighbourhood Effects and the Incidence of Child Labour</a>,
+    <a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">[Paper]</a>,
+    <a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">[Online Appendix]</a>,
+    <a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">[Replication Package]</a>,
+    (with Sylvanus Gaku, <em>Letters in Spatial and Resource Sciences</em>, 2021)
+  </li>
+</ol>
+
 
 <br>
 
 ### **Working Papers**
 
--   A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
+<br>
 
--   Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility (with Brantly Callaway, Tong Li & Irina Murtazashvili, revise and resubmit), [[ArXiv](https://arxiv.org/pdf/2107.09235)]
+<ol reversed>
 
--   Clustered Covariate Regression (with Abdul-Nasah Soale, Submitted), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], R Package: [cluscov](https://estsyawo.github.io/cluscov/), [<a href="CCR_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
- 
--   Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Submitted), [[ArXiv](https://arxiv.org/pdf/2408.13047)], [<a href="Koumou_Tsyawo_2025_Difference.zip#" class="download" title=" ">Replication Package</a>]
+  <li>
+    Beyond Parallel Trends: An Identification-Strategy-Robust Approach to Causal Inference with Panel Data (with Brantly Callaway, Derek Dyal & Pedro H.C. Sant’Anna),  <a href="https://arxiv.org/pdf/2511.21977">[ArXiv]</a>
+  </li>
 
--   A Distance Covariance-based Estimator (with Abdul-Nasah Soale, Submitted), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)], [<a href="dCov_Replication_Package.zip#" class="download" title=" ">Replication Package</a>]
+  <li>
+    A Consistent ICM-based χ² Specification Test (with Feiyu Jiang, revise and resubmit), <a href="https://arxiv.org/pdf/2208.13370.pdf">[ArXiv]</a>
+  </li>
 
--   Beyond Parallel Trends: An Identification-Strategy-Robust
-Approach to Causal Inference with Panel Data (with Brantly Callaway, Derek Dyal & Pedro H.C. Sant’Anna), [[ArXiv](https://arxiv.org/pdf/2511.21977)]
+  <li>
+    Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility (with Brantly Callaway, Tong Li & Irina Murtazashvili, revise and ressubmit), <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>
+  </li>
+  
 
--   Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway), [[ArXiv](https://arxiv.org/pdf/2308.02899.pdf)]
+  <li>
+    Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Submitted),  <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>, <a href="Koumou_Tsyawo_2025_Difference.zip#" class="download">[Replication Package]</a>
+  </li>
+  
 
--   Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes (with Nelly K. Djuazon), [[ArXiv](https://arxiv.org/pdf/2408.07842)]
+  <li>
+    A Distance Covariance-based Estimator (with Abdul-Nasah Soale, Submitted), <a href="https://arxiv.org/pdf/2102.07008.pdf">[ArXiv]</a>,  <a href="dCov_Replication_Package.zip#" class="download">[Replication Package]</a>
+  </li>
+  
 
--   ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
+  <li>
+    Clustered Covariate Regression (with Abdul-Nasah Soale, Submitted), <a href="https://arxiv.org/pdf/2302.09255.pdf">[ArXiv]</a>, R Package: <a href="https://estsyawo.github.io/cluscov/">[cluscov]</a>, <a href="CCR_Replication_Package.zip#" class="download">[Replication Package]</a>
+  </li>
+  
 
--   Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
+  <li>
+    Treatment Effects in Staggered Adoption Designs with Non-Parallel Trends (with Brantly Callaway),  <a href="https://arxiv.org/pdf/2308.02899.pdf">[ArXiv]</a>
+  </li>
+  
+
+  <li>
+    Quantile and Distribution Treatment Effects on the Treated with Possibly Non-Continuous Outcomes  (with Nelly K. Djuazon), <a href="https://arxiv.org/pdf/2408.07842">[ArXiv]</a>
+  </li>
+  
+
+  <li>
+    ICM-IV Regression with panel and clustered data (with Feiyu Jiang)
+  </li>
+  
+
+  <li>
+    Regression-Based Inference for Skewness and Kurtosis Coefficients (with Jean-Marie Dufour and Abderrahim Taamouti)
+  </li>
+
+</ol>
 
 ```{=html}
 <!--

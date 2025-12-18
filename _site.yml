@@ -1,7 +1,8 @@
-name: "Emmanuel S. Tsyawo"                                # CHANGE HERE 
-output_dir: "."
+name: "Emmanuel S. Tsyawo"
+output_dir: "docs"
+
 navbar:
-  title: "Emmanuel S. Tsyawo"                             # CHANGE HERE 
+  title: "Emmanuel S. Tsyawo"
   type: inverse
   left:
     - text: "Home"
@@ -22,11 +23,12 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:estsyawo@gmail.com                    # CHANGE HERE 
+      href: mailto:estsyawo@gmail.com
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/estsyawo       # CHANGE HERE 
+      href: https://github.com/estsyawo
+
 output:
   html_document:
-    theme: spacelab                                #cosmo   paper  simplex spacelab
-    highlight: textmate                         #  pygments
+    theme: spacelab
+    highlight: textmate

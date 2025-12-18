@@ -12,13 +12,13 @@ navbar:
       icon: fa-file-pdf-o
       href: cv.html
     - text: "Research"
-      icon: fa-user 
+      icon: fa-user
       href: research.html
     - text: "Code"
-      icon: fa-user 
+      icon: fa-user
       href: code.html
     - text: "Teaching"
-      icon: fa-user 
+      icon: fa-user
       href: teaching.html
   right:
     - text: "Contact me"

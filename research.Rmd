@@ -25,7 +25,7 @@ ol.publications > li { margin-bottom: 0.4em; }
 <!-- <ol reversed> -->
 <ol class="publications" reversed>
 <li>
-    A Consistent ICM-based χ² Specification Test, <a href="https://arxiv.org/pdf/2208.13370.pdf">[ArXiv]</a> (with Feiyu Jiang, <em>Forthcoming, Econometric Theory</em>, 2022)
+    A Consistent ICM-based χ² Specification Test, <a href="https://arxiv.org/pdf/2208.13370.pdf">[ArXiv]</a> (with Feiyu Jiang, <em>Forthcoming, Econometric Theory</em>, 2025)
   </li>
   
  <!-- <br class="tightbreak"> -->

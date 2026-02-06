@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.10)  20 DEC 2025 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.10)  6 FEB 2026 08:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,7 +392,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 ! Misplaced alignment tab character &.
-l.155 ...ta}, (with Brantly Callaway, Derek Dyal &
+l.153 ...ta}, (with Brantly Callaway, Derek Dyal &
                                                    Pedro H.C. Sant’Anna)
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -451,7 +451,7 @@ usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Tsyawo_CV.pdf (4 pages, 106043 bytes).
+Output written on Tsyawo_CV.pdf (4 pages, 106037 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams

@@ -63,18 +63,17 @@ ol.publications > li { margin-bottom: 0.4em; }
 <ol>
 
   <li>
+    Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility (with Brantly Callaway, Tong Li & Irina Murtazashvili, revise and re-submit), <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>
+  </li>
+  
+
+  <li>
+    Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, revise and re-submit),  <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>, <a href="Koumou_Tsyawo_2025_Difference.zip#" class="download">[Replication Package]</a>
+  </li>
+  
+<li>
     Beyond Parallel Trends: An Identification-Strategy-Robust Approach to Causal Inference with Panel Data (with Brantly Callaway, Derek Dyal & Pedro H.C. Sant’Anna),  <a href="https://arxiv.org/pdf/2511.21977">[ArXiv]</a>
   </li>
-
-  <li>
-    Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility (with Brantly Callaway, Tong Li & Irina Murtazashvili, revise and ressubmit), <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>
-  </li>
-  
-
-  <li>
-    Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, Submitted),  <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>, <a href="Koumou_Tsyawo_2025_Difference.zip#" class="download">[Replication Package]</a>
-  </li>
-  
 
   <li>
     Clustered Covariate Regression (with Abdul-Nasah Soale, Submitted), <a href="https://arxiv.org/pdf/2302.09255.pdf">[ArXiv]</a>, R Package: <a href="https://estsyawo.github.io/cluscov/">[cluscov]</a>, <a href="CCR_Replication_Package.zip#" class="download">[Replication Package]</a>

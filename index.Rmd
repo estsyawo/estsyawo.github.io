@@ -24,14 +24,7 @@ I am an Assistant Professor of Economics at the University of Alabama's Culverho
 
 <br>
 
-<!--Email: estsyawo[at]temple[dot]edu, estsyawo[at]gmail[dot]com
-**Email**: estsyawo [at] gmail [dot] com
-
-**Address**: Université Mohammed VI Polytechnique, 
-
-Faculté de Gouvernance, Sciences Economiques et Sociales (FGSES)
-
-Technopolis, Rocade Rabat-Salé, Morocco
+<!--
 
 Department of Economics, Finance and Legal Studies
 Culverhouse College of Business
@@ -44,10 +37,14 @@ Tuscaloosa, AL 35487-0224
 -->
 
 
-<!--
+
 
 
 **Scheduled presentations**: 
+
+* [Africa Meeting of the Econometric Society (AFES) ](https://www.econometricsociety.org/regional-activities/schedule/2026/06/10/2026-Africa-Meeting-Cairo-Egypt), Cairo, Egypt (June 2026)
+
+<!--
 
 * [Southern Economic Association 95th Annual Meeting](https://southerneconomic.org/conference/call-for-papers/), Tampa, Florida, (November 22-24)
 

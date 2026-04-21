@@ -69,7 +69,7 @@ ol.publications > li { margin-bottom: 0.4em; }
   
 
   <li>
-    Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, revise and re-submit),  <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>, <a href="Koumou_Tsyawo_2025_Difference.zip#" class="download">[Replication Package]</a>
+    Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate (with Gilles Koumou, revise and re-submit),  <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>, <a href="2026_Koumou_Tsyawo.zip#" class="download">[Replication Package]</a>
   </li>
   
   

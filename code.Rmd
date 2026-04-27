@@ -1,75 +1,69 @@
 ---
 title: "Code"
 ---
+```{=html}
+<div class="code-section">
+<h3>R Packages</h3>
+<p class="code-section-intro">Packages and research tools for econometrics, distributional methods, and spatial or clustered-data applications.</p>
+<div class="code-list">
+  <div class="code-item">
+    <h4>icmkit <span class="code-links">[<a href="https://github.com/estsyawo/icmkit">GitHub</a>]</span></h4>
+    <p>Provides tools for Integrated Conditional Moment (ICM) estimation and specification testing in linear and nonlinear regression settings.</p>
+  </div>
 
-<!-- Commented out: -->
-<!-- # ** Code** -->
+  <div class="code-item">
+    <h4>estrpac <span class="code-links">[<a href="https://github.com/estsyawo/estrpac">GitHub</a>]</span></h4>
+    <p>A working package that temporarily hosts routines used in my research.</p>
+  </div>
 
-<br><br>
+  <div class="code-item">
+    <h4>cluscov <span class="code-links">[<a href="https://CRAN.R-project.org/package=cluscov">CRAN</a>] [<a href="https://estsyawo.github.io/cluscov/">Website</a>] [<a href="https://github.com/estsyawo/cluscov">GitHub</a>]</span></h4>
+    <p>With Abdul-Nasah Soale. Implements clustered covariate regression methods for linear and nonlinear models, including settings with rank-deficient design matrices.</p>
+  </div>
 
-### **R packages**
+  <div class="code-item">
+    <h4>bayesdistreg <span class="code-links">[<a href="https://CRAN.R-project.org/package=bayesdistreg">CRAN</a>] [<a href="https://estsyawo.github.io/bayesdistreg/index.html">Website</a>] [<a href="https://github.com/estsyawo/bayesdistreg">GitHub</a>]</span></h4>
+    <p>With Weige Huang. Provides routines for Bayesian distribution regression, including non-asymptotic, semi-asymptotic, and asymptotic estimators used in related research.</p>
+  </div>
+</div>
+</div>
+```
 
-* estrpac [[GitHub](https://github.com/estsyawo/estrpac)] 
+```{=html}
+<div class="code-section">
+<h3>C Projects</h3>
+<p class="code-section-intro">Lower-level implementations intended to expose computational details and support faster model estimation.</p>
+<div class="code-list">
+  <div class="code-item">
+    <h4>metricsC <span class="code-links">[<a href="https://github.com/estsyawo/metricsC">GitHub</a>]</span></h4>
+    <p>A collection of portable C routines for econometric model estimation. The project emphasizes low-level implementation, computational intuition, and performance, with test programs included for complete C execution.</p>
+  </div>
 
-This package temporarily hosts routines that I use in my research.
+  <div class="code-item">
+    <h4>RdotC <span class="code-links">[<a href="https://github.com/estsyawo/RdotC">GitHub</a>] [<a href="https://estsyawo.github.io/RdotC/index.html">Website</a>]</span></h4>
+    <p>Provides C routines callable from R for econometric and statistical model estimation, useful both as building blocks and for speed improvements.</p>
+  </div>
+</div>
+</div>
+```
 
-<br>
-
-* cluscov [[CRAN](https://CRAN.R-project.org/package=cluscov)] [[Website](https://estsyawo.github.io/cluscov/)] [[Github](https://github.com/estsyawo/cluscov)] (with Abdul-Nasah Soale)
-
-Clustered covariate regression enables estimation and inference in both linear and non-linear models with linear predictor functions even when the design matrix is column rank deficient. Routines in this package implement algorithms in [Soale and Tsyawo (2019)](https://www.researchgate.net/publication/333207469_Clustered_covariate_regression)
-
-<br>
-
-* bayesdistreg [[CRAN](https://CRAN.R-project.org/package=bayesdistreg)] [[Website](https://estsyawo.github.io/bayesdistreg/index.html)] [[Github](https://github.com/estsyawo/bayesdistreg)] (with Weige Huang)
-
-An R package for Bayesian Distribution Regression. This package was first used for analyses in the paper "Bayesian Distribution Regression" [Huang & Tsyawo 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658). The package implements routines in the paper including the three Bayesian Distribution Regression estimators namely, the non-asymptotic, semi-asymptotic, and asymptotic.
-
-<br>
-
-* RpacSPD [[GitHub](https://github.com/estsyawo/RpacSPD)]
-[[Website](https://estsyawo.github.io/RpacSPD/)]
-
-This package contains routines for estimating and carrying out inference on both linear and nonlinear spatial panel data models developed in my papers.
-
-<br>
-
-### **C**
-
-* metricsC [[Github](https://github.com/estsyawo/metricsC)]
-
-The [metricsC](https://github.com/estsyawo/metricsC) project contains portable routines purely coded in C for estimating econometric models. The project began as routines coded for the .C call in R, which explains why all the functions are void() and function arguments are pointers. The main goal of this project is to provide low-level implementations of econometric models for intuition, higher performance, and insight into the numerical and computational aspects to econometric and statistical model estimation.
-
-metricsC is a project that includes building blocks and functions for estimating econometric models in C. Most of the procedures are void functions callable in software including R in order to speed up computations. To a large extent possible, we provide test (main) programmes for complete C implementation.
-
-The folders organise the programmes into categories/models. The _test.c files contain programmes for implementing the models in C. Also, each  _test.c file contains gcc terminal commands (as comments) for compiling and executing the programmes. For different compilers, a little adaption of the commands may be required.
-
-<br>
-
-* RdotC [[Github](https://github.com/estsyawo/RdotC)] [[Website](https://estsyawo.github.io/RdotC/index.html)]
-
-Call routines implemented in C into R. The routines estimate econometric and statistical models. They are useful as building blocks for larger programmes and also serve to improve performance. 
-
-<br>
-
-### **Fortran**
-
-* metricsFortran [[Github](https://github.com/estsyawo/metricsFortran)]
-
-[metricsFortran](https://github.com/estsyawo/metricsFortran) contains subroutines in Fortran for estimating econometric models. The import of this project lies in exposing the numerical and computational dimensions to econometric and statistical modelling, with the intention of increasing performance, efficiency, and offering a grasp at low-level programming for common econometric models.
-
-Due to the availability of high-level functionalities in Fortran viz. matrix product, transpose, etc., we do not provide code for executing such tasks.
+```{=html}
+<div class="code-section">
+<h3>Fortran</h3>
+<p class="code-section-intro">Numerical routines for econometric modeling in a high-performance compiled environment.</p>
+<div class="code-list">
+  <div class="code-item">
+    <h4>metricsFortran <span class="code-links">[<a href="https://github.com/estsyawo/metricsFortran">GitHub</a>]</span></h4>
+    <p>Contains Fortran subroutines for econometric model estimation, with an emphasis on performance, numerical efficiency, and low-level understanding of common econometric procedures.</p>
+  </div>
+</div>
+</div>
+```
 
 <!--
-<br>
-
 ### **Matlab**
 
-<br>
-
 ### **Octave**
-
-<br>
 
 ### **Stata**
 -->

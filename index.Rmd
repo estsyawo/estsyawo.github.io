@@ -1,48 +1,44 @@
 ---
 title: "Home"
 ---
-<br>
+<div class="homepage-hero">
+<div class="homepage-copy">
+<p class="homepage-kicker">Econometrics | Causal Inference | Applied Microeconomics</p>
+<p class="homepage-lead">I am an Assistant Professor of Economics at the University of Alabama's Culverhouse College of Business.</p>
+<p class="homepage-summary">My research is in econometrics, with interests in causal inference, estimation and inference, hypothesis testing, measurement error, and machine learning. I develop methods that help researchers make more credible empirical claims, especially in settings with complex data, weak identifying assumptions, and challenging inference problems. My work combines theory with applied questions in economics and related fields.</p>
+</div>
+<img src="assets/images/Emmanuel_Selorm_Tsyawo2018.jpg" alt="Portrait of Emmanuel S. Tsyawo" class="homepage-photo" />
+</div>
 
+<div class="homepage-grid">
+<section class="homepage-card">
+<h3>Quick links</h3>
+<div class="quick-links">
+<a class="quick-link" href="research.html">Research</a>
+<a class="quick-link" href="files/cv/Tsyawo_CV.pdf">Curriculum Vitae</a>
+<a class="quick-link" href="code.html">Code</a>
+</div>
+</section>
 
-<IMG SRC="Emmanuel_Selorm_Tsyawo2018.jpg" style="width:225px;height:300px;" ALIGN="right" HSPACE="50"/> 
+<section class="homepage-card contact-block" id="contact">
+<h3>Contact</h3>
+<p><strong>Emmanuel S. Tsyawo</strong><br />
+Assistant Professor of Economics<br />
+Culverhouse College of Business, University of Alabama</p>
+<p>Email: estsyawo [at] gmail.com<br />
+<a href="https://github.com/estsyawo">GitHub</a></p>
+</section>
+</div>
 
-<br>
-
-I am an Assistant Professor of Economics at the University of Alabama's Culverhouse College of Business. My area of specialisation is econometrics (theoretical and applied) with a focus on estimation, hypothesis testing, causal inference, and machine learning. I am passionate about exploring the intersection of these fields to develop innovative solutions to interesting economic problems.
-
-<br>
-
-<br>
-
-<!--
-<a href="Tsyawo_JMP.pdf#" class="download" title="Download JMP as PDF">Job Market Paper</a>
--->
-
-<br>
-
-<a href="Tsyawo_CV.pdf#" class="download" title="Download CV as PDF">Curriculum Vitae</a>			
-
-<br>
-
-<!--
-
-Department of Economics, Finance and Legal Studies
-Culverhouse College of Business
-University of Alabama
-Box 870224
-Tuscaloosa, AL 35487-0224 
-
-<br>
-
--->
-
-
-
-
-
-**Scheduled presentations**: 
-
-* [Africa Meeting of the Econometric Society (AFES) ](https://www.econometricsociety.org/regional-activities/schedule/2026/06/10/2026-Africa-Meeting-Cairo-Egypt), Cairo, Egypt (June 2026)
+<section class="homepage-card">
+<h3>Current projects and news</h3>
+<ul class="news-list">
+<li>New package highlight: <a href="https://github.com/estsyawo/icmkit">icmkit</a> provides tools for Integrated Conditional Moment (ICM) estimation and specification testing in linear and nonlinear regression settings.</li>
+<li>Ongoing work on econometric methods for causal inference, treatment effects, and specification testing.</li>
+<li>Recent publication: <a href="https://www.cambridge.org/core/journals/econometric-theory/article/consistent-icmbased-chi2-specification-test/DF98A874F40AA24D1414C62C4F2357C9">A Consistent ICM-based χ² Specification Test</a>, with Feiyu Jiang, <em>Econometric Theory</em> (2026).</li>
+<li>Scheduled presentation: <a href="https://www.econometricsociety.org/regional-activities/schedule/2026/06/10/2026-Africa-Meeting-Cairo-Egypt">Africa Meeting of the Econometric Society (AFES)</a>, Cairo, Egypt (June 2026).</li>
+</ul>
+</section>
 
 <!--
 
@@ -61,5 +57,3 @@ Tuscaloosa, AL 35487-0224
 * The 18th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics), CFE-CMStatistics 2024, London (14-16 December 2024)
 
 -->
-
-

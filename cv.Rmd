@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-<a href="Tsyawo_CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="files/cv/Tsyawo_CV.pdf" class="download" title="Download Curriculum Vitae as PDF">Download Curriculum Vitae (PDF)</a>

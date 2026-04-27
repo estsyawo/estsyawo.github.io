@@ -8,22 +8,22 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
+    - text: "Curriculum Vitae"
+      icon: fa-file-text-o
+      href: files/cv/Tsyawo_CV.pdf
     - text: "Research"
-      icon: fa-user
+      icon: fa-book
       href: research.html
     - text: "Code"
-      icon: fa-user
+      icon: fa-code
       href: code.html
     - text: "Teaching"
-      icon: fa-user
+      icon: fa-graduation-cap
       href: teaching.html
   right:
-    - text: "Contact me"
+    - text: "Contact"
       icon: fa-envelope-o
-      href: mailto:estsyawo@gmail.com
+      href: index.html#contact
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/estsyawo
@@ -32,3 +32,7 @@ output:
   html_document:
     theme: spacelab
     highlight: textmate
+    css: assets/css/styles.css
+    includes:
+      in_header: assets/icons/favicon.html
+      after_body: assets/footer/footer.html

@@ -1,21 +1,43 @@
 ---
 title: "Teaching"
 ---
-<br>
+```{=html}
+<div class="teaching-section">
+<h3>Instructor of Record</h3>
+<p class="teaching-section-intro">Selected courses taught across doctoral, undergraduate, and introductory economics programs.</p>
+<div class="teaching-list">
+  <div class="teaching-item">
+    <h4>University of Alabama</h4>
+    <p class="teaching-note">Causal Inference (PhD), Spring 2026<br />
+    Intermediate Microeconomics (Undergraduate), Spring 2026</p>
+  </div>
 
-### Instructor of record - Université Mohammed VI Polytechnique
+  <div class="teaching-item">
+    <h4>Université Mohammed VI Polytechnique</h4>
+    <p class="teaching-note">Econometrics I (PhD), Fall 2021-2024<br />
+    Econometrics I (Undergraduate), Fall 2022-2024<br />
+    Macroéconomie II, Spring 2021-2025<br />
+    Méthodes Quantitatives (Undergraduate), Spring 2025<br />
+    Mathematics and Optimisation for Economists, Fall 2021</p>
+  </div>
 
-* Econometrics I (PhD) (Fall: 2021 - 2024)
-* Econometrics I (Undergrad) (Fall: 2022 - 2024)
-* Macroéconomie II (Spring: 2021 - 2025)
-* Mathematics & Optimisation for Economists (Fall 2021)
+  <div class="teaching-item">
+    <h4>Temple University</h4>
+    <p class="teaching-note">Principles of Macroeconomics, Fall 2018 and 2019; Spring 2019 and 2020<br />
+    Intermediate Microeconomics, Summer 2018<br />
+    Principles of Microeconomics, Summer 2015 and 2016; Fall 2017</p>
+  </div>
+</div>
+</div>
 
-### Instructor of record - Temple University
-
-* Principles of Macroeconomics (Fall 2018 & 2019, Spring 2019 & Spring 2020)
-* Intermediate Microeconomics (Summer 2018)
-* Principles of Microeconomics (Summer 2015, Summer 2016, & Fall 2017)
-
-### Teaching Assistant - Temple University
-
-* Principles of Microeconomics (Fall 2014, Spring 2015, Fall 2015, Spring 2016, Fall 2016, Spring 2017 )
+<div class="teaching-section">
+<h3>Teaching Assistant</h3>
+<p class="teaching-section-intro">Earlier teaching support experience.</p>
+<div class="teaching-list">
+  <div class="teaching-item">
+    <h4>Temple University</h4>
+    <p class="teaching-note">Principles of Microeconomics, Fall 2014; Spring 2015; Fall 2015; Spring 2016; Fall 2016; Spring 2017</p>
+  </div>
+</div>
+</div>
+```

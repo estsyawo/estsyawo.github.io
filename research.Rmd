@@ -5,10 +5,10 @@ title: "Research"
 <h3>Published Papers</h3>
 <p class="research-section-intro">Peer-reviewed publications, with links to papers, appendices, and replication materials where available.</p>
 <ol class="research-list" reversed>
-<li>
+  <li>
     Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate
     <span class="journal-note">(with Gilles Koumou)</span>
-    <span class="status-badge">Accepted, Econometric Reviews</span>,
+    <span class="status-badge">Forthcoming, Econometric Reviews</span>,
     <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>,
     <a href="files/replication/2026_Koumou_Tsyawo.zip" class="download">[Replication Package]</a>
   </li>
@@ -48,6 +48,10 @@ title: "Research"
 <h3>Working Papers</h3>
 <p class="research-section-intro">Current projects in circulation, including manuscripts under review and active collaborations.</p>
 <ol class="research-list">
+  <li>
+    A Grid-Rate Condition for Valid Uniform Inference,
+    <a href="https://arxiv.org/pdf/2605.12284">[ArXiv]</a>
+  </li>
   <li>
     Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility
     <span class="journal-note">(with Brantly Callaway, Tong Li and Irina Murtazashvili)</span>

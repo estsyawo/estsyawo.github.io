@@ -5,6 +5,14 @@ title: "Research"
 <h3>Published Papers</h3>
 <p class="research-section-intro">Peer-reviewed publications, with links to papers, appendices, and replication materials where available.</p>
 <ol class="research-list" reversed>
+
+<li>
+    Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility
+    <span class="journal-note">(with Brantly Callaway, Tong Li and Irina Murtazashvili)</span>
+    <span class="status-badge">Accepted, Jounral of Econometrics</span>,
+    <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>
+  </li>
+
   <li>
     <a href="https://www.tandfonline.com/eprint/GA9C4VHPMCHGYDFRXRTD/full?target=10.1080/07474938.2026.2670372#abstract">Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate</a>,
     <a href="https://arxiv.org/pdf/2408.13047">[ArXiv]</a>,
@@ -52,12 +60,6 @@ title: "Research"
   <li>
     A Grid-Rate Condition for Valid Uniform Inference,
     <a href="https://arxiv.org/pdf/2605.12284">[ArXiv]</a>
-  </li>
-  <li>
-    Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility
-    <span class="journal-note">(with Brantly Callaway, Tong Li and Irina Murtazashvili)</span>
-    <span class="status-badge">Revise and resubmit</span>,
-    <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>
   </li>
   
   <li>

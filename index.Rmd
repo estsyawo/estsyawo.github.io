@@ -42,8 +42,16 @@ Culverhouse College of Business, University of Alabama</p>
 <li>New working paper: <a href="https://arxiv.org/pdf/2605.12284">A Grid-Rate Condition for Valid Uniform Inference</a> (2026).</li>
 <li>New R package: <a href="https://github.com/estsyawo/icmkit">icmkit</a> provides tools for Integrated Conditional Moment (ICM) estimation and specification testing in linear and nonlinear regression settings.</li>
 
-<li>Recent publication: <a href="https://www.cambridge.org/core/journals/econometric-theory/article/consistent-icmbased-chi2-specification-test/DF98A874F40AA24D1414C62C4F2357C9">A Consistent ICM-based χ² Specification Test</a>, with Feiyu Jiang, <em>Econometric Theory</em> (2026).</li>
+</ul>
+</section>
 
+<section class="homepage-card">
+<h3>Scheduled presentations</h3>
+<ul class="news-list">
+<li>Florida State University, Tallahassee, FL (September 11, 2026).</li>
+<li><a href="https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html">Midwest Econometrics Group Annual Meeting</a>, Cincinnati, OH (October 9-10, 2026).</li>
+<li>Ohio State University, Columbus, OH (October 12, 2026).</li>
+<li><a href="https://southerneconomic.org/conference/">Southern Economic Association Annual Meeting</a>, Houston, TX (November 21-23, 2026).</li>
 </ul>
 </section>
 

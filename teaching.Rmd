@@ -9,7 +9,7 @@ title: "Teaching"
   <div class="teaching-item">
     <h4>University of Alabama</h4>
     <p class="teaching-note">Causal Inference (PhD), Spring 2026<br />
-    Intermediate Microeconomics (Undergraduate), Spring 2026</p>
+    Intermediate Microeconomics (Undergraduate), Spring 2026 and Fall 2026</p>
   </div>
 
   <div class="teaching-item">

@@ -8,7 +8,8 @@ title: "Research"
 
   <li>
     <a href="https://www.sciencedirect.com/science/article/pii/S0304407626000898">Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility</a>,
-    <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>
+    <a href="https://arxiv.org/pdf/2107.09235">[ArXiv]</a>,
+    <a href="files/appendices/2026_Callaway_Li_Murtazashvili_Tsyawo_online_appendix.pdf" class="download" title="Download">[Online Appendix]</a>
     <span class="journal-note">(with Brantly Callaway, Tong Li and Irina Murtazashvili, <em>Journal of Econometrics</em>, 2026)</span>
   </li>
 
@@ -97,16 +98,16 @@ title: "Research"
     ICM-IV Regression with panel and clustered data
     <span class="journal-note">(with Feiyu Jiang)</span>
   </li>
+</div>
+
+```{=html}
+<!--
   <li>
     Regression-Based Inference for Skewness and Kurtosis Coefficients
     <span class="journal-note">(with Jean-Marie Dufour and Abderrahim Taamouti)</span>
   </li>
 </ol>
 </div>
-
-```{=html}
-<!--
-
 * [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/files/papers/Tsyawo_JMP.pdf)
   + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)  
 
@@ -122,6 +123,7 @@ title: "Research"
 * <a href="Huang&Tsyawo2018_4.pdf#" class="download" title=" ">Bayesian Distribution Regression</a> [[Submitted]](with Weige Huang)
 -->
 ```
+
 <div class="research-section">
 <h3>Work in Progress</h3>
 <p class="research-section-intro">Projects in earlier stages of development.</p>

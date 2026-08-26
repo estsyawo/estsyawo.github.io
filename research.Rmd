@@ -60,7 +60,8 @@ title: "Research"
 <ol class="research-list">
   <li>
     Limit Theory for U-Statistics under Clustered and Weakly Dependent Data,
-    <a href="https://arxiv.org/pdf/2608.18443">[ArXiv]</a>
+    <a href="https://arxiv.org/pdf/2608.18443">[ArXiv]</a>,
+    <a href="files/replication/2026_Tsyawo_NEDClus.zip" class="download">[Replication Package]</a>
   </li>
 
   <li>

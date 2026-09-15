@@ -51,7 +51,6 @@ Culverhouse College of Business, University of Alabama</p>
 <section class="homepage-card">
 <h3>Scheduled presentations</h3>
 <ul class="news-list">
-<li>Florida State University, Tallahassee, FL (September 11, 2026).</li>
 <li><a href="https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html">Midwest Econometrics Group Annual Meeting</a>, Cincinnati, OH (October 9-10, 2026).</li>
 <li>Ohio State University, Columbus, OH (October 12, 2026).</li>
 <li><a href="https://southerneconomic.org/conference/">Southern Economic Association Annual Meeting</a>, Houston, TX (November 21-23, 2026).</li>

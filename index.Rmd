@@ -34,10 +34,8 @@ Culverhouse College of Business, University of Alabama</p>
 <h3>Recent updates</h3>
 <ul class="news-list">
 
-<li>New publication: <a href="https://www.sciencedirect.com/science/article/pii/S0304407626000898">Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility</a>, with Brantly Callaway, Tong Li and Irina Murtazashvili, <em>Journal of Econometrics</em> (2026).</li>
+<li>Recent publication: <a href="https://www.sciencedirect.com/science/article/pii/S0304407626000898">Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility</a>, with Brantly Callaway, Tong Li and Irina Murtazashvili, <em>Journal of Econometrics</em> (2026).</li>
 
-
-<li>Recent publication: <a href="https://www.tandfonline.com/eprint/GA9C4VHPMCHGYDFRXRTD/full?target=10.1080/07474938.2026.2670372#abstract">Difference-in-differences with as few as two cross-sectional units – A new perspective to the democracy-growth debate</a>, with Gilles Koumou, <em>Econometric Reviews</em> (2026).</li>
 
 <li>New working paper: <a href="https://arxiv.org/pdf/2608.18443">Limit Theory for U-Statistics under Clustered and Weakly Dependent Data</a> (2026).</li>
 <!--
@@ -51,9 +49,10 @@ Culverhouse College of Business, University of Alabama</p>
 <section class="homepage-card">
 <h3>Scheduled presentations</h3>
 <ul class="news-list">
-<li><a href="https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html">Midwest Econometrics Group Annual Meeting</a>, Cincinnati, OH (October 9-10, 2026).</li>
-<li>Ohio State University, Columbus, OH (October 12, 2026).</li>
+
 <li><a href="https://southerneconomic.org/conference/">Southern Economic Association Annual Meeting</a>, Houston, TX (November 21-23, 2026).</li>
+
+<li>Case Western Reserve University, Cleveland, OH (Jan. 22, 2027).</li>
 </ul>
 </section>
 

@@ -65,6 +65,12 @@ title: "Research"
   </li>
 
   <li>
+    Z-Estimation under Unignorably Large Clusters
+    <span class="journal-note">(with Agossou Michel Yomakou and Abderrahim Taamouti)</span>,
+    <a href="https://arxiv.org/abs/2611.10925">[ArXiv]</a>
+  </li>
+
+  <li>
     Limit Theory for U-Statistics under Clustered and Weakly Dependent Data,
     <a href="https://arxiv.org/pdf/2608.18443">[ArXiv]</a>
   </li>

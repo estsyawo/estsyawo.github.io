@@ -37,7 +37,7 @@ Culverhouse College of Business, University of Alabama</p>
 <li>Recent publication: <a href="https://www.sciencedirect.com/science/article/pii/S0304407626000898">Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility</a>, with Brantly Callaway, Tong Li and Irina Murtazashvili, <em>Journal of Econometrics</em> (2026).</li>
 
 
-<li>New working paper: <a href="https://arxiv.org/pdf/2608.18443">Limit Theory for U-Statistics under Clustered and Weakly Dependent Data</a> (2026).</li>
+<li>New working paper: <a href="https://arxiv.org/abs/2611.10925">Z-Estimation under Unignorably Large Clusters</a>, with Agossou Michel Yomakou and Abderrahim Taamouti (2026).</li>
 <!--
 <li>New working paper: <a href="https://arxiv.org/pdf/2605.12284">A Grid-Rate Condition for Valid Uniform Inference</a> (2026).</li>
 <li>New R package: <a href="https://github.com/estsyawo/icmkit">icmkit</a> provides tools for Integrated Conditional Moment (ICM) estimation and specification testing in linear and nonlinear regression settings.</li>
@@ -50,9 +50,11 @@ Culverhouse College of Business, University of Alabama</p>
 <h3>Scheduled presentations</h3>
 <ul class="news-list">
 
-<li><a href="https://southerneconomic.org/conference/">Southern Economic Association Annual Meeting</a>, Houston, TX (November 21-23, 2026).</li>
+<li>Conference: <a href="https://southerneconomic.org/conference/">Southern Economic Association Annual Meeting</a>, Houston, TX (November 21-23, 2026).</li>
 
-<li>Case Western Reserve University, Cleveland, OH (Jan. 22, 2027).</li>
+<li>Seminar: Case Western Reserve University, Cleveland, OH (Jan. 22, 2027).</li>
+
+<li>Seminar: Oklahoma State University, Stillwater, OK (April 23, 2027).</li>
 </ul>
 </section>
 

@@ -140,6 +140,10 @@ title: "Research"
 <h3>Work in Progress</h3>
 <p class="research-section-intro">Projects in earlier stages of development.</p>
 <ul class="research-list">
+  <li>
+    When Gravity Shares Shocks: Robust Inference under Pairwise Dependence
+    <span class="journal-note">(with Daniel Henderson and Julius Owusu)</span>
+  </li>
   <li>Space-Calibrated Estimation and Inference</li>
 </ul>
 </div>
